@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Luccas
+# 👨🏻‍💻 Luccas Henrick 
 
 **Desenvolvedor Back-end em formação**
 
